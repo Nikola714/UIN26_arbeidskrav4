@@ -1,9 +1,8 @@
-import amanda.jpg from '.../public/Bilder'
 export default function Amanda() {
 
     return (
         <>
-        <img src={amanda.jpg} alt="" />
+        <img src="../public/Bilder/amanda.jpg" alt="bilde av Amanda Torstensen"/>
         <h2>Amanda Torstensen</h2> 
         <h3>Studie: Digitale medier og Design</h3>
         <h4>Andreårs student</h4> 
