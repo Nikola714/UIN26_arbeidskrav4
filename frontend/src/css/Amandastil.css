@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(199, 184, 161);
+    color: rgb(255, 249, 243);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}

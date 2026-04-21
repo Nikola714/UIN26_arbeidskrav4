@@ -1,3 +1,5 @@
+
+import './css/Amandastil.css'
 export default function Amanda() {
 
     return (
